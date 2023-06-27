@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @puneeth04 Python Developer 
-- 🛴Wroking Technologies Django,Flask
-- 🌱 I’m currently learning AWS
+- 🛴Wroked with Technologies Django,Flask,Pandas, numpy
+- 🌱 AWS services, kubernetes, docker
 - 📫 How to reach me puneethpavan1@gmail.com
 
 <!---
