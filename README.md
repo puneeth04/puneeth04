@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @puneeth04 Python Developer 
-- 🛴Wroked with Technologies Django,Flask,Pandas, numpy
-- 🌱 AWS services, kubernetes, docker
+- 🛴Wroked with Technologies Flask,Pandas, NumPy
+- 🌱 AWS services, Kubernetes, docker
 - 📫 How to reach me puneethpavan1@gmail.com
 
 <!---
